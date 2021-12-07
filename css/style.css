@@ -1,0 +1,60 @@
+
+.navbar {
+    background-color: #31302F;
+    margin-left:0px;
+    padding-left: 50px;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: #FFFFFF;
+   
+
+}
+
+.quem-somos{
+    background-color: #F5BC0A;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+.quem-somos img{
+    padding-top: 30px;
+}
+
+.parceiros{
+    padding-top: 30px;
+    padding-bottom: 6px;
+    background: #31302f;
+    color: white;
+}
+
+.row{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    
+}
+
+.serviços{
+    padding-top: 30px;
+    background-color: #F5BC0A;
+    color: white;
+}
+
+.col-lg-6 h3{
+    padding-top: 100px;
+}
+
+.col-lg-6 img src{
+    padding-top: 5px;
+}
+
+.bg-footer{
+    background: #31302f;
+    color: white;
+}
+
+.margin{
+   
+}
